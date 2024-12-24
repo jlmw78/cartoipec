@@ -13,7 +13,7 @@ email=j@j.j
 about=Descarga vectoriales de plantas urbanas publicadas por el IPEC
 
 tracker=http://bugs
-repository=http://repo
+repository=https://github.com/jlmw78/cartoipec
 # End of mandatory metadata
 
 # Recommended items:
@@ -25,7 +25,7 @@ hasProcessingProvider=no
 # Tags are comma separated with spaces allowed
 tags=callejero, plantas urbanas, localidades, santa fe
 
-homepage=http://homepage
+homepage=https://github.com/jlmw78/cartoipec
 category=Plugins
 icon=logo.png
 # experimental flag
