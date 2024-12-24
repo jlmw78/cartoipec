@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/cartoipec_v2" >
+        <file>logo.png</file>
+    </qresource>
+</RCC>
