@@ -6,4 +6,5 @@ El listado no necesariamente coincidira con el publicado y disponible en dicha w
 Estos archivos se podran descargar en formato zip. 
 Al descomprimir, extraer la carpeta cartoipec en la ruta de pluigins en qgis3 manualmente
 
-La version 2 incorpora un filtro de localidades por departamento y la opción de las versiones del año 2010 o 2022
+### Versión 2 
+Incorpora un filtro de localidades por departamento y la opción de las versiones del año 2010 o 2022
